@@ -13,13 +13,21 @@ A high-performance, production-ready analytics pipeline for pharmacy claims proc
 ## Project Structure
 
 hippo-data/
+
 ├── main.py              # CLI entrypoint (Typer)
+
 ├── loader.py            # Data loading (CSV/JSON)
+
 ├── processor.py         # Goals 2, 3, 4
+
 ├── logger.py            # Logging setup
+
 ├── requirements.txt
+
 ├── README.md
+
 └── output/              # Generated JSONs + log
+
 
 ## Requirements
 
