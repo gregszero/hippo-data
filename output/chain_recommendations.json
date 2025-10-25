@@ -1,0 +1,132 @@
+[
+  {
+    "ndc": "00002323401",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 7.0
+      },
+      {
+        "name": "health",
+        "avg_price": 291.3
+      }
+    ]
+  },
+  {
+    "ndc": "00015066812",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 148.81
+      },
+      {
+        "name": "doctor",
+        "avg_price": 160.03
+      }
+    ]
+  },
+  {
+    "ndc": "00031074998",
+    "chain": [
+      {
+        "name": "health",
+        "avg_price": 130.05
+      },
+      {
+        "name": "doctor",
+        "avg_price": 169.26
+      }
+    ]
+  },
+  {
+    "ndc": "00046110481",
+    "chain": [
+      {
+        "name": "health",
+        "avg_price": 238.58
+      },
+      {
+        "name": "saint",
+        "avg_price": 285.12
+      }
+    ]
+  },
+  {
+    "ndc": "00054027225",
+    "chain": [
+      {
+        "name": "doctor",
+        "avg_price": 368.85
+      },
+      {
+        "name": "health",
+        "avg_price": 515.59
+      }
+    ]
+  },
+  {
+    "ndc": "00078017705",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 6.37
+      },
+      {
+        "name": "doctor",
+        "avg_price": 395.64
+      }
+    ]
+  },
+  {
+    "ndc": "00093752910",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 7.85
+      },
+      {
+        "name": "health",
+        "avg_price": 340.79
+      }
+    ]
+  },
+  {
+    "ndc": "49884024302",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 87.77
+      },
+      {
+        "name": "doctor",
+        "avg_price": 257.81
+      }
+    ]
+  },
+  {
+    "ndc": "55154445200",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 1.11
+      },
+      {
+        "name": "health",
+        "avg_price": 330.23
+      }
+    ]
+  },
+  {
+    "ndc": "63323036410",
+    "chain": [
+      {
+        "name": "health",
+        "avg_price": 181.65
+      },
+      {
+        "name": "doctor",
+        "avg_price": 452.32
+      }
+    ]
+  }
+]
