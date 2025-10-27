@@ -12,23 +12,9 @@ A high-performance, production-ready analytics pipeline for pharmacy claims proc
 
 ## Requirements
 
-Polars
-Typer
+Typer  - CLI tool
 
-
-## Why Polars?
-
-| Feature | Benefit |
-|-------|--------|
-| **10–100x faster than Pandas** | Processes 10M+ claims in seconds |
-| **Auto multi-threaded** | Uses all **10 cores** on the instance |
-| **Memory efficient** | Columnar + Arrow format |
-| **Lazy evaluation** | Ready for 100M+ rows (just add `.lazy()`) |
-| **Native CSV + JSON** | `pl.read_csv()`, `pl.read_json()` |
-| **SQL-like API** | Clean, readable code |
-| **Schema enforcement** | Catches invalid data early |
-
-> **Allowed for Goals 3 & 4** → used for **all goals** for consistency and performance
+Polars - Data manipulation, 10x-100x faster than Pandas. Auto multi-thread.
 
 
 ## Install
